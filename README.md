@@ -11,8 +11,14 @@
   <br/>
 <!-- Tech shields -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3.x-informational?logo=python&color=3776AB">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-17-informational?logo=c%2B%2B&color=00599C">
-  <img alt="D3.js" src="https://img.shields.io/badge/D3.js-Data%20Viz-informational?logo=d3dotjs&color=F9A03C">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-0A0A0A?logo=openai&logoColor=white">
+  <img alt="Data Science" src="https://img.shields.io/badge/Data%20Science-0066CC?logo=python&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
   <img alt="Last updated" src="https://img.shields.io/badge/Updated-2025-success">
 </div>
 
