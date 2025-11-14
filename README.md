@@ -40,17 +40,15 @@ I'm Dominic Zhang. I build Machine Learning models and data visualizations relat
   [[code](#)] · [[demo](#)]
 
 ### Committees and Talks
----Committees:
 - Unpacking Power and Equity in Schools Study Group
--Ad Hoc Committee on Faculty Governance/ Faculty Voice Committee
--Equity Committee – Low Income and First Generation Subcommittee
--SEED (Seeking Educational Equity and Diversity) Committee
----Talks:
--Is Cross-Racial Empathy Possible? 2022
--Empowering Resilient Mathematicians: 2023 Conference on Practitioner Inquiry, Penn GSE
--Education Access and Equity – A Study on the Privileged Poor: Fall DEI Day
--NCTM Attendee 2022, 2023
--Standards-Based Grading: Curriculum Committee and Math Department
+- Ad Hoc Committee on Faculty Governance/ Faculty Voice Committee
+- Equity Committee – Low Income and First Generation Subcommittee
+- SEED (Seeking Educational Equity and Diversity) Committee
+- Is Cross-Racial Empathy Possible? 2022
+- Empowering Resilient Mathematicians: 2023 Conference on Practitioner Inquiry, Penn GSE
+- Education Access and Equity – A Study on the Privileged Poor: Fall DEI Day
+- National Council of Teachers of Mathematics Attendee 2022, 2023
+- Standards-Based Grading: Curriculum Committee and Math Department
 
 ### Teaching
 - Algebra 2
