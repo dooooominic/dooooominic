@@ -1,7 +1,7 @@
 <!-- Centered hero header -->
 <div align="center">
   <h1>Hey there! 👋 I'm Dominic Zhang</h1>
-  <p><b>Short title:</b> e.g., "MS CS @ NYU • ML + Data Viz • Education • B.S Physics + B.A Philosophy"</p>
+  <p>MS CS @ NYU • ML + Data Viz • Education • B.S Physics + B.A Philosophy"</p>
 
   <!-- Quick action badges (edit links) -->
   <!--a href="https://www.yourdomain.com">website</a> · -->
