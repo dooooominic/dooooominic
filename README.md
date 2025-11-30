@@ -40,8 +40,8 @@ I'm Dominic Zhang. I build Machine Learning models and data visualizations relat
   _Stack:_ Python, Javascript, React, Figma  
   [[code](https://github.com/anokhimehta/crowdfork)]
 
-- **Urban Time Traveler**  
-  Analyzing changes in urban public infrastructure through a chronological analysis of sidewalk data in major cities, using satellite imagery from Tile2Net, Google Earth, and official city-level GIS data.   
+- **ML-Based Data Analysis on Student Performance Factors **  
+  Analyzing various factors that contribute or hinders student performance in schools among 20 variables, including access to resouces, parental education and income, and peer influence.   
   _Stack:_ …  
   [[code](#)] · [[demo](#)]
 
