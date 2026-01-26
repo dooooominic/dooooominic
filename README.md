@@ -43,7 +43,7 @@ I'm Dominic Zhang. I build Machine Learning models and data visualizations relat
 - **EduViz **  
   EduViz is an interactive data visualization and machine learning dashboard that explores Texas statewide education assessment data (2022–2025) to surface district-level trends in performance and equity. Built with Python, Streamlit, and interpretable ML tools like LIME, and five distinct classification and regression models, the project translates complex models into accessible, policy-relevant insights for educators, researchers, and the public.   
   _Stack:_ Python, Numpy, Scikit-Learn, Seaborn, Pytorch, Streamlit
-  [[code](#)] · [[demo](#)]
+  [[code](#)(https://github.com/dooooominic/EduViz_ML_Analysis)] · [[demo]([#](https://eduviz.streamlit.app/))]
 
 ### Committees and Talks
 - Unpacking Power and Equity in Schools Study Group
