@@ -26,9 +26,6 @@
 
 I'm Dominic Zhang. I build Machine Learning models and data visualizations related to education and other public goods, and studying for my Master's in Computer Science at NYU Tandon. Previously 9-12 Math & Physics Teacher. I care about developing accessible and responsible technology and tools for social goods and improving the state of the world.
 
-- 🔭 **Current projects:**
-  - **EduViz** – EduViz is an interactive data visualization and machine learning dashboard that explores Texas statewide education assessment data (2022–2025) to surface district-level trends in performance and equity. Built with Python, Streamlit, and interpretable ML tools like LIME, and five distinct classification and regression models, the project translates complex models into accessible, policy-relevant insights for educators, researchers, and the public. [[repo](https://github.com/dooooominic/EduViz_ML_Analysis)]
-  - **CrowdFork** – This project tries to build a better version of Beli that allows users to discover, rate, and share good places to eat around them. [[repo](https://github.com/anokhimehta/crowdfork)]
 - 📚 **Relevant Classes:** Machine Learning, Visualization for Machine Learning, Big Data, Principles of Database Systems, Information, Security, and Privacy
 - 💬 **Ask me about:** STEM Education, Physics, Machine Learning, Data Visualization, History and Philosophy of Science
 - 🤝 **Open to collaborating on:** Any meaningful projects for public and social good! 
@@ -37,7 +34,7 @@ I'm Dominic Zhang. I build Machine Learning models and data visualizations relat
 
 - **EduViz**  
   EduViz is an interactive data visualization and machine learning dashboard that explores Texas statewide education assessment data (2022–2025) to surface district-level trends in performance and equity. Built with Python, Streamlit, and interpretable ML tools like LIME, and five distinct classification and regression models, the project translates complex models into accessible, policy-relevant insights for educators, researchers, and the public.   
-  _Stack:_ Python, Numpy, Scikit-Learn, Seaborn, Pytorch, Streamlit
+  _Stack:_ Python, Pandas, Numpy, Scikit-Learn, Seaborn, Pytorch, Streamlit
   [[code](https://github.com/dooooominic/EduViz_ML_Analysis)] · [[demo](https://eduviz.streamlit.app/)]
 
 - **CrowdFork**  
