@@ -37,6 +37,17 @@ I'm Dominic Zhang. I build Machine Learning models and data visualizations relat
   _Stack:_ Python, Pandas, Numpy, Scikit-Learn, Seaborn, Pytorch, Streamlit
   [[code](https://github.com/dooooominic/EduViz_ML_Analysis)] · [[demo](https://eduviz.streamlit.app/)]
 
+  <a href="https://github.com/user-attachments/assets/c2248125-9de0-461e-82f7-83ebeb199dbe" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c2248125-9de0-461e-82f7-83ebeb199dbe" width="1000"/>
+</a>
+<a href="https://github.com/user-attachments/assets/d7a03da7-7f22-4d3a-ac6e-8958579b5e49" target="_blank">
+  <img src="https://github.com/user-attachments/assets/d7a03da7-7f22-4d3a-ac6e-8958579b5e49" width="500"/>
+</a>
+<a href="https://github.com/user-attachments/assets/65091b55-5605-469b-a217-554795f3c6ff" target="_blank">
+  <img src="https://github.com/user-attachments/assets/65091b55-5605-469b-a217-554795f3c6ff" width="500"/>
+</a>
+
+
 - **CrowdFork**  
   Allows users to discover, rate, and share good places around them for dining. A backend machine learning algorithm is implemented to learn about the user and offer additional suggestions for places to check out. 
   _Stack:_ Python, Javascript, React, Figma  
