@@ -24,16 +24,16 @@
 
 ---
 
-I'm Dominic Zhang. I build Machine Learning models and data visualizations related to education and other public goods, and studying for my Master's in Computer Science at NYU Tandon. Previously 9-12 Math & Physics Teacher. I care about developing accessible and responsible technology and tools for social goods and improving the state of the world.
+I'm Dominic Zhang. I am an aspiring data scientist, I like to build Machine Learning models and data visualizations related to education and other public facing fields, and to tell impactful stories. I am studying for my Master's in Computer Science at NYU Tandon with a concentration in Machine Learning. Previously 9-12 Math & Physics Teacher and educational leader. I care about developing accessible and responsible technology and tools for social goods and improving the state of the world.
 
 - 📚 **Relevant Classes:** Machine Learning, Visualization for Machine Learning, Big Data, Principles of Database Systems, Information, Security, and Privacy
-- 💬 **Ask me about:** STEM Education, Physics, Machine Learning, Data Visualization, History and Philosophy of Science
+- 💬 **Ask me about:** STEM Education, Physics, History and Philosophy of Science, Cooking!
 - 🤝 **Open to collaborating on:** Any meaningful projects for public and social good! 
 
 ### Selected Projects
 
 - **EduViz**  
-  EduViz is an interactive data visualization and machine learning dashboard that explores Texas statewide education assessment data (2022–2025) to surface district-level trends in performance and equity. Built with Python, Streamlit, and interpretable ML tools like LIME, and five distinct classification and regression models, the project translates complex models into accessible, policy-relevant insights for educators, researchers, and the public.   
+  EduViz is an interactive machine learning forecasting and decision-making system for policymakers, as well as a data visualization dashboard that explores Texas statewide education assessment data (2022–2025) to surface district-level trends in performance and equity. Built with Python, Streamlit, interpretable ML tools like LIME, and five distinct classification and regression models, the project translates complex models into accessible, policy-relevant insights for educators, researchers, and the public.   
   _Stack:_ Python, Pandas, Numpy, Scikit-Learn, Seaborn, Pytorch, Streamlit
   [[code](https://github.com/dooooominic/EduViz_ML_Analysis)] · [[demo](https://eduviz.streamlit.app/)]
 
