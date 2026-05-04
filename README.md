@@ -25,7 +25,7 @@
 
 I'm Dominic Zhang. I am an aspiring data scientist, I like to build Machine Learning models and data visualizations related to education and other public facing fields, and to tell impactful stories. I am studying for my Master's in Computer Science at NYU Tandon with a concentration in Machine Learning. Previously 9-12 Math & Physics Teacher and educational leader. I care about applying data science and machine learning tools responsibly to solve meaningful social problems, and I am especially interested in time series data and forecasting, as well as data science for social good and improving the state of the world. I’m also a Social Sector Leadership and Diversity Fellow at NYU, where I work on projects at the intersection of leadership, equity, and social impact.
 
-<a href="https://www.nyu.edu/students/getting-involved/leadership-and-service/changemaker-center/social-sector-leadership-diversity-fellowship/meet-the-fellows.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1">
+<a href="https://www.nyu.edu/students/getting-involved/leadership-and-service/changemaker-center/social-sector-leadership-diversity-fellowship/meet-the-fellows">
 Learn more about the fellowship here!
 </a>
 
