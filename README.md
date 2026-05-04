@@ -17,14 +17,20 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?logo=matplotlib&logoColor=black">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white">
   <img alt="Last updated" src="https://img.shields.io/badge/Updated-2025-success">
 </div>
 
 ---
 
-I'm Dominic Zhang. I am an aspiring data scientist, I like to build Machine Learning models and data visualizations related to education and other public facing fields, and to tell impactful stories. I am studying for my Master's in Computer Science at NYU Tandon with a concentration in Machine Learning. Previously 9-12 Math & Physics Teacher and educational leader. I care about developing accessible and responsible technology and tools for social goods and improving the state of the world.
+I'm Dominic Zhang. I am an aspiring data scientist, I like to build Machine Learning models and data visualizations related to education and other public facing fields, and to tell impactful stories. I am studying for my Master's in Computer Science at NYU Tandon with a concentration in Machine Learning. Previously 9-12 Math & Physics Teacher and educational leader. I care about applying data science and machine learning tools responsibly to solve meaningful social problems, and I am especially interested in time series data and forecasting, as well as data science for social good and improving the state of the world. I’m also a Social Sector Leadership and Diversity Fellow at NYU, where I work on projects at the intersection of leadership, equity, and social impact.
+
+<a href="https://www.nyu.edu/students/getting-involved/leadership-and-service/changemaker-center/social-sector-leadership-diversity-fellowship/meet-the-fellows.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1">
+Learn more about the fellowship here!
+</a>
+
+<br>
+<br>
 
 - 📚 **Relevant Classes:** Machine Learning, Visualization for Machine Learning, Big Data, Principles of Database Systems, Information, Security, and Privacy
 - 💬 **Ask me about:** STEM Education, Physics, History and Philosophy of Science, Cooking!
@@ -39,8 +45,9 @@ I'm Dominic Zhang. I am an aspiring data scientist, I like to build Machine Lear
   [[code](https://github.com/CS-GY-6513-Project/Tunnel-Vision)]
 
 - **EduViz**  
-  EduViz is an interactive machine learning forecasting and decision-making system for policymakers, as well as a data visualization dashboard that explores Texas statewide education assessment data (2022–2025) to surface district-level trends in performance and equity. Built with Python, Streamlit, interpretable ML tools like LIME, and five distinct classification and regression models, the project translates complex models into accessible, policy-relevant insights for educators, researchers, and the public.   
-  _Stack:_ Python, Pandas, Numpy, Scikit-Learn, Seaborn, Pytorch, Streamlit
+  EduViz is an interactive machine learning forecasting and decision-making system for policymakers, as well as a data visualization dashboard that explores Texas statewide education assessment data (2022–2025) to surface district-level trends in performance and equity. Built with Python, Streamlit, interpretable ML tools like LIME, and five distinct classification and regression models, the project translates complex models into accessible, policy-relevant insights for educators, researchers, and the public.
+  
+  _Stack:_ Python, Pandas, Numpy, Scikit-Learn, Seaborn, Streamlit
   [[code](https://github.com/dooooominic/EduViz_ML_Analysis)] · [[demo](https://eduviz.streamlit.app/)]
 
   <a href="https://github.com/user-attachments/assets/c2248125-9de0-461e-82f7-83ebeb199dbe" target="_blank">
@@ -53,11 +60,6 @@ I'm Dominic Zhang. I am an aspiring data scientist, I like to build Machine Lear
   <img src="https://github.com/user-attachments/assets/65091b55-5605-469b-a217-554795f3c6ff" width="500"/>
 </a>
 
-
-- **CrowdFork**  
-  Allows users to discover, rate, and share good places around them for dining. A backend machine learning algorithm is implemented to learn about the user and offer additional suggestions for places to check out. 
-  _Stack:_ Python, Javascript, React, Figma  
-  [[code](https://github.com/anokhimehta/crowdfork)]
 
 
 ### Committees and Talks
