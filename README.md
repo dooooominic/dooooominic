@@ -32,7 +32,7 @@ I'm Dominic Zhang. I am an aspiring data scientist, I like to build Machine Lear
 
 ### Selected Projects
 
--**TunnelVision**
+- **TunnelVision**
   TunnelVision is a project I am currently working on as a part of my Big Data class at NYU Tandon. We are using about 120 million rows of MTA data on subway systems in New York City to analyze and forecast subway ridership in different boroughs, under different weather conditions. My work in this project specifically focused on using machine learning techniques to train various models that helps us learn about ridership behavior in relation to different features. A linear regression model was built as a baseline, which had (as expected) horrible performance, the random forest model trained was able to perform much better, with an R2 score of 0.664 for Manhattan. I also decided to use the Prophet model, which is similar to a Generalized Additive Model, to specifically train a time series forecasting model that takes into account daily, weekly, and yearly seasonalities, and added weather data as additional regressors, this model was able to achieve an R2 score of 0.734. 
   _Stack:_ Python, Kafka, Pandas, Scikit-Learn, Plotly, Prophet
   [[code](https://github.com/CS-GY-6513-Project/Tunnel-Vision)]
